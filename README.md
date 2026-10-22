@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-I love digging into how things work under the hood, especially performance, distributed systems, operating systems, and low-level systems programming. I graduated from UT Austin with degrees in Computer Science and Math, and I've worked on Netflix's Performance Engineering team, first as an intern and then full-time, building tools that help engineers understand where their code spends its time.
+I love digging into how things work under the hood, especially distributed systems, operating systems, and low-level systems programming. I graduated from UT Austin with degrees in Computer Science and Math, and I've worked on Netflix's Performance Engineering team, first as an intern and then full-time, building tools that help engineers understand where their code spends its time.
 
 ## Open-source contributions
 - **[Netflix service-capacity-modeling](https://github.com/Netflix-Skunkworks/service-capacity-modeling/pull/329)**: added hardware-only instance scale factors (compute, memory, network, and disk) that unblocked a fleet migration at Netflix. I also opened [#333](https://github.com/Netflix-Skunkworks/service-capacity-modeling/issues/333) on CPU-architecture tagging.
